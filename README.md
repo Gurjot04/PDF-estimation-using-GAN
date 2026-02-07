@@ -90,7 +90,7 @@ The generated samples covered the major density regions well.
 ---
 
 ## 8. Final Output Included
-- Transformation parameters \( a_r \) and \( b_r \)
+- Transformation parameters \( a_r \) and \( b_r \) : 
   a_r = 2.5
   b_r = 1.5
 - GAN architecture description  
